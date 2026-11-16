@@ -1,0 +1,20 @@
+ticket_id,category,priority,description,resolution_time_hours,customer_rating,status
+101,Technical,High,Unable to login,2.5,5.0,Resolved
+102,Billing,Medium,Incorrect invoice,4.0,4.0,Resolved
+103,Technical,Critical,Server is down,8.0,2.0,Resolved
+104,Account,Low,Update email address,1.0,5.0,Resolved
+105,Technical,High,Application crashing,6.5,3.0,Resolved
+106,Billing,High,Payment failed,3.0,4.0,Resolved
+107,Account,Medium,Password reset issue,2.0,5.0,Open
+108,Technical,Low,Page loading slowly,5.0,3.0,Resolved
+109,Billing,Medium,Refund not received,7.0,4.0,Pending
+110,Technical,High,API connection error,3.5,2.0,Resolved
+111,Account,Low,Change phone number,1.5,5.0,Resolved
+112,Technical,Critical,Database connection failure,12.0,1.0,Open
+113,Billing,High,Double payment charged,3.5,4.0,Resolved
+114,Account,Medium,Account locked,2.5,3.0,Pending
+115,Technical,High,Software installation error,4.0,4.0,Resolved
+116,Billing,Low,Download invoice,0.5,5.0,Resolved
+117,Technical,Medium,Network connectivity issue,6.0,3.0,Open
+118,Account,Low,Update profile,3.5,4.0,Resolved
+119,Billing,High,Subscription cancellation,2.0,4.0,Resolved
